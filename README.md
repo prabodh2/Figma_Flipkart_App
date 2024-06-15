@@ -1,4 +1,4 @@
 # Figma_Flipkart_App  <br>
 Figma video Submission. <br>
 
-https://drive.google.com/drive/u/1/folders/1XO_dHv0SApWGo7JgNeGH7bmr1Azu0qkW
+https://drive.google.com/file/d/1vavDj159cZGZWbugWhr0L_B5hDdsvF9Q/view?usp=sharing
